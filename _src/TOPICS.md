@@ -11,9 +11,9 @@ If a topic turns out to be unverifiable or outdated after research, mark it `[sk
 - [x] 2026-11-24 - Как да проверя дали класът за прослужено време ми е правилен -> /blog/kak-da-proverya-klas-prosluzheno-vreme/
 - [x] 2026-11-24 - Трудов стаж при непълно работно време -> /blog/trudov-stazh-pri-nepalno-rabotno-vreme/
 - [x] 2026-11-25 - Как да посоча трудовия си стаж и датите на работа в CV -> /blog/kak-da-posocha-trudoviya-si-stazh-v-cv/
+- [x] 2026-11-27 - Какво е удостоверение УП-3 и как да го получа -> /blog/kakvo-e-udostoverenie-up-3/
 
 ## Queue (in order)
-- [ ] Какво е удостоверение УП-3 и как да го получа | supports: /osiguritelen-stazh/ , /stazh-za-pensia/
 - [ ] Как да получа ПИК от НОИ (на гише и онлайн) | supports: /osiguritelen-stazh/
 - [ ] Платен годишен отпуск: колко дни ми се полагат и как се смятат | supports: /
 - [ ] Обезщетение при пенсиониране: кога са 2 и кога 6 заплати | supports: /stazh-za-pensia/ , /
