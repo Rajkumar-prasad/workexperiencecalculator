@@ -37,4 +37,4 @@ If a topic turns out to be unverifiable or outdated after research, mark it `[sk
 - [ ] Трудов стаж за учители - как се признава | supports: / , /klas-prosluzheno-vreme/
 - [ ] Как да изчисля колко години ми остават до пенсия | supports: /stazh-za-pensia/
 
-When the queue has fewer than 4 topics left, add 6 new how-to topics at the end, based on what Bulgarians search about трудов стаж, осигурителен стаж, пенсия and заплата. Never repeat a published topic or search intent.
+When the queue has fewer than 7 topics left, add 10 new how-to topics at the end, based on what Bulgarians search about трудов стаж, осигурителен стаж, пенсия and заплата. Never repeat a published topic or search intent.
