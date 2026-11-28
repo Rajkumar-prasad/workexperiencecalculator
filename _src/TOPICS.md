@@ -12,9 +12,9 @@ If a topic turns out to be unverifiable or outdated after research, mark it `[sk
 - [x] 2026-11-24 - Трудов стаж при непълно работно време -> /blog/trudov-stazh-pri-nepalno-rabotno-vreme/
 - [x] 2026-11-25 - Как да посоча трудовия си стаж и датите на работа в CV -> /blog/kak-da-posocha-trudoviya-si-stazh-v-cv/
 - [x] 2026-11-27 - Какво е удостоверение УП-3 и как да го получа -> /blog/kakvo-e-udostoverenie-up-3/
+- [x] 2026-11-28 - Как да получа ПИК от НОИ - на гише и онлайн -> /blog/kak-da-polucha-pik-ot-noi/
 
 ## Queue (in order)
-- [ ] Как да получа ПИК от НОИ (на гише и онлайн) | supports: /osiguritelen-stazh/
 - [ ] Платен годишен отпуск: колко дни ми се полагат и как се смятат | supports: /
 - [ ] Обезщетение при пенсиониране: кога са 2 и кога 6 заплати | supports: /stazh-za-pensia/ , /
 - [ ] Как да откупя осигурителен стаж за пенсия | supports: /stazh-za-pensia/ , /osiguritelen-stazh/
